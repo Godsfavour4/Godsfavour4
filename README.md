@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Godsfavour4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Intro
+👋 Hi, I’m Taiwo God'sfavour(you can call me Fay), I’m open to collaborating on                                                                                         
+🌱I’m currently learning
+# Skills
+
+# Socials
+📫 How to reach me:
 
 <!---
 Godsfavour4/Godsfavour4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
